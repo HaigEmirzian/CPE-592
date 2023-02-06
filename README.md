@@ -1,1 +1,5 @@
-# Computer_and_Multimedia_Network_Security-Assignments-Steganography
+# Computer and Multimedia Network Security
+
+Programming Assignments:
+   1. Digital Watermarking and Steganography
+  
