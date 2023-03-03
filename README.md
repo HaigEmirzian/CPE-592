@@ -2,4 +2,4 @@
 
 Programming Assignments:
    1. Digital Watermarking and Steganography
-  
+   2. Data Encryption
